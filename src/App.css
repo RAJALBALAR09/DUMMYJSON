@@ -1,0 +1,252 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.Main_header {
+  background-color: #3f6275;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.logo_img img {
+  width: 70%;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.serach_box {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  width: 120%;
+  height: 50%;
+  border: 2px solid rgb(89, 122, 122);
+  border-radius: 5px;
+  padding: 0px 10px;
+}
+
+.btn button {
+  margin-right: 20px;
+  margin-top: 15px;
+  width: 110px;
+  height: 35px;
+  border: 2px double rgb(89, 111, 122);
+  border-radius: 5px;
+  font-size: 19px;
+  font-weight: 600;
+}
+
+.btn button:hover {
+  background-color: #badde7;
+
+}
+
+.icon {
+  margin-top: 15px;
+  font-size: 30px;
+  color: white;
+}
+
+.i_name {
+  margin-left: 15px;
+  margin-top: 8px;
+  font-size: 18px;
+  /* font-weight: ; */
+  border: none;
+  background: none;
+  color: white;
+}
+
+.login_btn {
+  margin-left: 40px;
+  margin-top: 10px;
+  width: 110px;
+  height: 35px;
+  border: 2px double rgb(89, 111, 122);
+  border-radius: 5px;
+  font-size: 19px;
+  font-weight: 600;
+}
+
+.login_btn:hover {
+  background-color: #badae7;
+
+}
+
+.cat_bg {
+  margin-top: 80px;
+  position: fixed;
+  overflow-y: auto;
+  height: 550px;
+  /* padding: 0 10px; */
+  cursor: pointer;
+}
+
+.Text_cat {
+  font-size: 20px;
+  margin-left: 20px;
+  font-weight: 400;
+  margin-top: 10px;
+  text-transform: uppercase;
+  color: gray;
+
+}
+
+.Text_cat:hover {
+  color: rgb(46, 46, 46);
+}
+
+.Card {
+  height: 100%;
+}
+
+.Post_img {
+  height: 250px;
+  width: 100%;
+  object-fit: cover;
+
+}
+
+.Dis_text {
+  margin-left: 15px;
+  margin-top: 10px;
+  /* text-transform: uppercase; */
+  font-weight: 700;
+
+}
+
+.Star_icon {
+  color: gold;
+  font-size: 19px;
+
+
+}
+
+.card {
+  height: 620px !important;
+}
+
+.card img {
+  background-attachment: fixed !important;
+}
+
+.Pro_text {
+  color: rgb(0, 0, 0);
+  font-size: 25px;
+  font-weight: 600;
+
+}
+
+.Des_tect {
+  color: grey;
+}
+
+.prize {
+  font-size: 40px;
+}
+
+.rent {
+  margin-top: 20px;
+}
+
+.Rat_text {
+  color: black;
+  margin-left: 10px;
+  font-size: 15px;
+  /* margin-top: 1px; */
+  /* margin-bottom: 20px; */
+}
+
+.Sto_text {
+  font-size: 15px;
+  font-weight: 600;
+  background-color: #3f5f75;
+  width: 30%;
+  text-align: center;
+  border-radius: 5px;
+  color: white;
+}
+.Last_cat{
+  text-align: center;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-color: #4f7e95;
+  border: 3px double #2e5c72;
+  border-radius: 5px;
+  color: #cdc7c7;
+}
+
+.Single_img {
+  justify-content: center;
+  margin-top: 120px;
+  border: 4px double black;
+
+}
+
+.Mul_img img {
+  height: 100px;
+  width: 100%;
+  border: 3px double black;
+  object-fit: cover;
+
+  /* margin-top: 50px; */
+}
+
+.Mul_img {
+  margin-top: 20px;
+}
+
+.Single_details {
+  margin-left: 100px;
+}
+
+.Single_text {
+  margin-top: 40px;
+  font-weight: 800;
+}
+
+.single_pri {
+  font-weight: 600;
+}
+
+.Sin_text {
+  font-weight: 700;
+  font-size: 20px;
+  margin-top: 20px;
+
+}
+.Single_icon{
+  font-size: 25px;
+  color: gold;
+  margin-top: 20px;
+
+}
+.sin_text{
+  margin-top: 15px;
+  font-size: 20px;
+  font-weight: 600;
+}
+.Sing_text{
+  margin-top: 15px;
+  font-weight: 600;
+}
+.Sing_brand{
+  font-weight: 600;
+  font-size: 20px;
+  color: #4e697c;
+}
+.Sing_icon{
+  color: #4e697c;
+  font-size: 15px;
+}
+.Sto_text:hover{
+  background-color: #0c3144;
+  cursor: pointer;
+}
+.Sing_cat{
+  text-transform: uppercase;
+  margin-top: 15px;
+  font-weight: 500;
+}
